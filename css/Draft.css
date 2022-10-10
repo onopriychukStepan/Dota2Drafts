@@ -1,0 +1,6 @@
+body {
+  background-image: url(../img/draftback.jpeg);
+  background-size: cover;
+  display: block;
+  position: fixed;
+}
